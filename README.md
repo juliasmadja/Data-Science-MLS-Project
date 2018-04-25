@@ -1,0 +1,2 @@
+# Data-Science-MLS-Project
+My final Data Science project for my graduate certificate in Data Science. The project is on exploring player data from MLS player metrics. We use the relevant features in developing a model that can assist a team in predicting the outcome of a game given certain player metrics conditions and test the models validity. We also develop an visual application with ShinyApp so that a team can continue to draw insights from the data at the conclusion of this project.
